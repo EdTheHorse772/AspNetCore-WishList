@@ -1,5 +1,5 @@
 ﻿using System;
-using Microsoft.EntityFramewirkCore;
+using Microsoft.EntityFrameworkCore;
 using WishList.Models;
 
 namespace WishList.Data
